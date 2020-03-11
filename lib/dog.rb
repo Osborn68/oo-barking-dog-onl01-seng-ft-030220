@@ -9,4 +9,5 @@ end
      @this_dog_name
    end
  end
-  
+  def bark
+    puts 
